@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/irichallenge-front/static/css/main.224b9a3e.css",
+    "main.js": "/irichallenge-front/static/js/main.e7c5e5a3.js",
+    "static/js/787.d5fa4d18.chunk.js": "/irichallenge-front/static/js/787.d5fa4d18.chunk.js",
+    "index.html": "/irichallenge-front/index.html",
+    "main.224b9a3e.css.map": "/irichallenge-front/static/css/main.224b9a3e.css.map",
+    "main.e7c5e5a3.js.map": "/irichallenge-front/static/js/main.e7c5e5a3.js.map",
+    "787.d5fa4d18.chunk.js.map": "/irichallenge-front/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224b9a3e.css",
+    "static/js/main.e7c5e5a3.js"
+  ]
+}
